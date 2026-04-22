@@ -34,12 +34,12 @@ Recruitment-focused posts generated higher clicks, while culture-based content d
 This is an independent concept project created for portfolio purposes using sample data.
 
 📂 Files Included
-Campaign Presentation (PDF)
-Sample Social Media Posts
-Sample Data Analysis (Excel)
+- Campaign Presentation (PDF)
+- Sample Social Media Posts
+- Sample Data Analysis (Excel)
 
 🚀 Skills Demonstrated
-Digital Marketing Strategy
-Content Design & Branding
-Data Analysis (Excel)
-Data-Driven Decision Making
+- Digital Marketing Strategy
+- Content Design & Branding
+- Data Analysis (Excel)
+- Data-Driven Decision Making
