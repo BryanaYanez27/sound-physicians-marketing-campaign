@@ -31,13 +31,13 @@ A sample dataset was created to demonstrate how content performance can be analy
 Recruitment-focused posts generated higher clicks, while culture-based content drove stronger engagement, showing the importance of balancing messaging strategies.
 
 ⚠️ Note
-
 This is an independent concept project created for portfolio purposes using sample data.
 
 📂 Files Included
 Campaign Presentation (PDF)
 Sample Social Media Posts
 Sample Data Analysis (Excel)
+
 🚀 Skills Demonstrated
 Digital Marketing Strategy
 Content Design & Branding
