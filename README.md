@@ -1,7 +1,7 @@
 Sound Physicians Recruitment Campaign (Concept Project)
 **View the full campaign presentation:**  
 
-👉 View Full Presentation
+👉 View Full Presentation 
 
 This project is a concept social media recruitment campaign created to demonstrate marketing strategy and data analysis skills.
 
