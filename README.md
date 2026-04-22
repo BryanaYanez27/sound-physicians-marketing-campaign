@@ -1,7 +1,7 @@
 Sound Physicians Recruitment Campaign (Concept Project)
 **View the full campaign presentation:**  
 
-https://chatgpt.com/c/69e7b221-c254-83ea-8df0-f2b75685e0a6#:~:text=Recruitment%20Campaign%20Concept-,%F0%9F%91%89%20View%20Full%20Presentation,-%F0%9F%94%A5%20Important%3A
+👉 View Full Presentation
 
 This project is a concept social media recruitment campaign created to demonstrate marketing strategy and data analysis skills.
 
